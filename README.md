@@ -1,1 +1,1 @@
-# diabetesdatabase
+The goal of this project is to build and modify a small neural network using PyTorch to predict whether individuals will develop diabetes within a five-year period. The dataset used is the Pima Indians Diabetes Database from Kaggle. The project involves creating a baseline neural network and then experimenting with different hyperparameters and architectures to observe their impact on model accuracy and training time.# diabetesdatabase
